@@ -1,0 +1,3 @@
+_pycache_/ #ignores compiled python files
+*._pyc 
+.env
